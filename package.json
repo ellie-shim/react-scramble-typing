@@ -8,6 +8,14 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellie-shim/react-scramble-typing.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
