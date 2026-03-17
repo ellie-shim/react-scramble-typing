@@ -12,6 +12,13 @@ dist
 dist-ssr
 *.local
 
+src/**/*.d.ts
+src/**/*.js
+src/**/*.jsx
+*.tsbuildinfo
+.pnpm-store/
+.env
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
