@@ -12,6 +12,7 @@ export default defineConfig({
     dts({
       insertTypesEntry: true, // index.d.ts에 모든 타입 export
       rollupTypes: true, // 타입 파일 번들링 (트리쉐이킹)
+      outDir: "dist",
     }),
   ],
   build: {

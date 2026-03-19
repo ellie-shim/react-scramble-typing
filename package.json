@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellie-shim/react-scramble-typing.git"
+    "url": "git+https://github.com/ellie-shim/react-scramble-typing.git"
   },
   "license": "MIT",
   "keywords": [
@@ -48,5 +48,10 @@
     "typescript-eslint": "^8.56.1",
     "vite": "^8.0.0",
     "vite-plugin-dts": "^4.5.4"
-  }
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ellie-shim/react-scramble-typing/issues"
+  },
+  "homepage": "https://github.com/ellie-shim/react-scramble-typing#readme"
 }

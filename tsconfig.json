@@ -21,6 +21,7 @@
     "outDir": "./dist"
   },
   "include": ["src"],
+  "exclude": ["src/**/*.d.ts", "dist"],
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
